@@ -16,14 +16,14 @@ function Navbar() {
         <a className="nav-link" href="#">Home <span className="sr-only">(current)</span></a>
       </li>
       <li className="nav-item">
-        <a className="nav-link" href="#"> about</a>
+        <a className="nav-link" href="#">about</a>
       </li>
       <li className="nav-item dropdown">
         <a className="nav-link dropdown-toggle" href="#" role="button" data-toggle="dropdown" aria-expanded="false">
           Dropdown
         </a>
         <div className="dropdown-menu">
-          <a className="dropdown-item" href="#">Action</a>
+          <a className="dropdown-item" href="#"> contact</a>
           <a className="dropdown-item" href="#">Another action</a>
           <div className="dropdown-divider"></div>
           <a className="dropdown-item" href="#">Something else here</a>
